@@ -38,13 +38,13 @@
                 row-gap: 40px;
             }
 
-            @media(max-width: 750px){
+            @media(max-width: 751px){
                 .video-grid{
                     grid-template-columns: 1fr 1fr;
                 }
             }
 
-             @media(min-width: 900px){
+             @media(min-width: 901px){
                 .video-grid{
                     grid-template-columns: 1fr 1fr 1fr 1fr;
                 }
